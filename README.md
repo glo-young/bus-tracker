@@ -20,7 +20,6 @@
   
   Some things I am interested in applying to future edits:
   
-  - Following a different line
   - Practice using data from another city/bus line
 
  ***
