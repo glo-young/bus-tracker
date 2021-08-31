@@ -5,7 +5,7 @@
  
   #### DESCRIPTION
 
- Watch as the marker on the map moves along the bus stops between MIT and Harvard.  
+ Watch as the marker on the map moves along the bus stops of bus route 1 between MIT and Harvard. 
  
   ***
     
