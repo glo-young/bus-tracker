@@ -5,7 +5,7 @@
  
   #### DESCRIPTION
 
- Follow the marker on the map to see the stops from MIT to Harvard
+ Watch as the marker on the map moves along the bus stops between MIT and Harvard.  
  
   ***
     
